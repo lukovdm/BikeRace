@@ -1,0 +1,182 @@
+Initialize engine version: 4.6.0b17 (2d43734a3870)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 610M       (ID=0x1058)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.119 seconds
+desktop: 1920x1080 59Hz; virtual: 3286x1080 at -1366,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\System.Core.dll (this message is harmless)
+Couldn't send RPC function '__RPCNetworkDestroy'
+
+ 
+(Filename:  Line: 2463)
+
+Couldn't send RPC function '__RPCNetworkDestroy'
+
+ 
+(Filename:  Line: 2463)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't send RPC function '__RPCNetworkDestroy'
+
+ 
+(Filename:  Line: 2463)
+
+Couldn't send RPC function '__RPCNetworkDestroy'
+
+ 
+(Filename:  Line: 2463)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 745)
+
+Couldn't send RPC function '__RPCNetworkDestroy'
+
+ 
+(Filename:  Line: 2463)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't send RPC function '__RPCNetworkDestroy'
+
+ 
+(Filename:  Line: 2463)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 745)
+
+Couldn't send RPC function '__RPCNetworkDestroy'
+
+ 
+(Filename:  Line: 2463)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't send RPC function '__RPCNetworkDestroy'
+
+ 
+(Filename:  Line: 2463)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 745)
+
+Couldn't send RPC function '__RPCNetworkDestroy'
+
+ 
+(Filename:  Line: 2463)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't destroy game object because no network view is attached to it.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't send RPC function '__RPCNetworkDestroy'
+
+ 
+(Filename:  Line: 2463)
+

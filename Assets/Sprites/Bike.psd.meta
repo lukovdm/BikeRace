@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 5b66482d4c60b1e4bb3e663eb351b708
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bike
+    21300002: Bike_0
+    21300004: Bike_1
+    21300006: Bike_2
+    21300008: Bike_3
+    21300010: Bike_4
+    21300012: Bike_5
+    21300014: Bike_6
+    21300016: Bike_7
+    21300018: Bike_8
+    21300020: Bike_10
+    21300022: Bike_11
+    21300024: Bike_12
+    21300026: Bike_13
+    21300028: Bike_14
+    21300030: Bike_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bike_0
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 909
+        width: 39
+        height: 72
+      alignment: 9
+      pivot: {x: .204272151, y: .888646424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bike_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 972
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bike_2
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 743
+        width: 238
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bike_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 686
+        width: 406
+        height: 314
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bike_16
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 492
+        width: 237
+        height: 238
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
