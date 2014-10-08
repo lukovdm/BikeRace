@@ -106,7 +106,7 @@ public class Networkmanger : MonoBehaviour {
 			if (info == NetworkDisconnection.LostConnection)
 				status.text = "Lost connection to the server";
 			else {
-				status.text = "Successfully diconnected from the server";
+				status.text = "Successfully diconnected from the server"; 
 			}
 		}
 		buttons.SetActive (true);

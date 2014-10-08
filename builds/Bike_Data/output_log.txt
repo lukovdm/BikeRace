@@ -12,9 +12,33 @@ Platform assembly: E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\Asse
 Loading E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
 Platform assembly: E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.118 seconds
-desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+- Completed reload, in  0.161 seconds
+desktop: 1920x1080 59Hz; virtual: 3286x1080 at -1366,0
 <RI> Initializing input.
 <RI> Input initialized.
 Platform assembly: E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\System.dll (this message is harmless)
 Platform assembly: E:\Dropbox\programeren\BikeRace\builds\Bike_Data\Managed\System.Core.dll (this message is harmless)
+Clean up after player 1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Clean up after player 1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Clean up after player 1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Clean up after player 1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Clean up after player 1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Clean up after player 1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
